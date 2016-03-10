@@ -1,0 +1,49 @@
+html, body
+{
+	margin: 0px;
+	padding: 0px;
+}
+
+header
+{
+	width: 100%;
+	float: left;
+}
+header nav
+{
+	background-color: #000;
+	float: left;
+	width: 100%;
+}
+header nav div
+{
+	width: 17.8%;
+	padding: 1%;
+	float: left;
+	border-right: 1px solid #fff;
+}
+
+header nav div a
+{
+	color: #fff;
+	text-decoration: none;
+	width: 100%;
+	display: block;
+	text-align: center;
+	
+}
+header nav div a:hover
+{
+	background-color: #fff;
+	color: #000;
+
+}
+div.banner
+{
+	float: left;
+	width: 100%;
+}
+div.banner img
+{
+	width: 100%;
+}

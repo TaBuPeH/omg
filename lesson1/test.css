@@ -1,0 +1,47 @@
+
+div
+{
+	color: #fff;
+	width: 100px;
+}
+
+.column
+{
+	width: 200px;
+	height: 200px;
+	background-color: #ff0000;
+}
+
+#firstCol
+{
+	width: 300px;
+}
+
+div.column
+{
+	width: 100px;
+}
+div#firstCol
+{
+	width: 100px;
+}
+
+a
+{
+	color: blue;
+}
+
+span a
+{
+	color: red;
+}
+
+div span a
+{
+	color: purple;
+}
+
+div#firstCol span a
+{
+	color: #000;
+}
