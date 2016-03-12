@@ -30,7 +30,7 @@ header nav div a
 	width: 100%;
 	display: block;
 	text-align: center;
-	
+	color: #ff0080;
 }
 header nav div a:hover
 {
